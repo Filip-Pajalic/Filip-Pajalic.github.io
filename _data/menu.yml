@@ -1,0 +1,13 @@
+entries:
+  - title: about me
+    entries:
+      - title: filip.pajalic@gmail.com
+        url: mailto:filip.pajalic@gmail.com
+      - title: github
+        url: http://github.com/Filip-Pajalic/
+  - title: entries
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
